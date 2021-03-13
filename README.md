@@ -7,6 +7,11 @@ The latest news, recent image, mars facts and description and hemispehere images
 3. https://space-facts.com/mars/ --- mars facts
 4. https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars --- mars hemisphere images
 
-The jupyter notebook in the folder Mission_to_mars, mission_to_mars.ipynb has the code for scraping
+# Getting Started
+Run the app.py and click on the button to get the real time data.
+The functions for scraping and dictionary of the data to be loaded is in the scrape_mars.py file.
+The index.html has the css and html for the page.
+The jupyter notebook in the folder Mission_to_mars, mission_to_mars.ipynb has the code for scraping.
+
 
 
